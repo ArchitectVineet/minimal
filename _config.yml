@@ -1,6 +1,17 @@
-title: Vineet Kumar
+title: <p align="center"> Vineet Kumar </p>
 logo: /assets/img/Pic1.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vineet-kumar-119b9a1a/">LinkedIn</a> |
+  <a href="https://github.com/ArchitectVineet">GitHub</a>
+  
+  <br>   
+  I'm working as Enterprise Architect with specialized skills in Cloud Data and Analytics.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
